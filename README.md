@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @claycaleb
-- 👀 Check out my website: calebclay.com
+- 👀 Check out my website: [calebclay.com](https://www.calebclay.com)
 - 🌱 I’m currently learning web dev on FreeCodeCamp.
 - 📫 Email: caleb@calebclay.com
 
