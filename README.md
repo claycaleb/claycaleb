@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @claycaleb
-- 👀 Check out my website: [calebclay.com](https://www.calebclay.com)
-- 🌱 I’m currently learning web dev on FreeCodeCamp.
+- 🌱 I’m currently learning web dev with The Odin Project.
 - 📫 Email: caleb@calebclay.com
 
 <!---
