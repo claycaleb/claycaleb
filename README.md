@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @claycaleb
-- 🌱 I’m currently learning web dev with The Odin Project.
+- 🌱 I’m currently building a home lab! Learning cybersecurity basics.
 - 📫 Email: caleb@calebclay.com
 
 <!---
