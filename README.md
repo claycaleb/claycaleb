@@ -1,7 +1,6 @@
 # Caleb Clay
 
-High school career-tech teacher  
-Building things and learning to code
+High school career-tech teacher | Tinkerer
 
 🌐 [calebclay.com](https://calebclay.com)  
 📫 caleb@calebclay.com
