@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @claycaleb
-- 🌱 I’m currently working on my [digital garden](https://calebclay.com) and vibe-coding.
-- 📫 Email: caleb@calebclay.com
+# Caleb Clay
 
-<!---
-claycaleb/claycaleb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+High school career-tech teacher  
+Building things and learning to code
+
+🌐 [calebclay.com](https://calebclay.com)  
+📫 caleb@calebclay.com
