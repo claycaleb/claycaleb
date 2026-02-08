@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @claycaleb
-- 🌱 I’m currently building a home lab! Learning cybersecurity basics.
+- 🌱 I’m currently working on my [digital garden](https://calebclay.com) and vibe-coding.
 - 📫 Email: caleb@calebclay.com
 
 <!---
